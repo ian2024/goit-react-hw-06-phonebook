@@ -1,5 +1,4 @@
 import { filterAction } from '../../redux/phonebook/filter/sliceFilter';
-import PropTypes from 'prop-types';
 import { useDispatch, useSelector } from 'react-redux';
 import { Label, Input } from './Filter.styled';
 
