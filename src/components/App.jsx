@@ -1,4 +1,3 @@
-import { useEffect } from 'react';
 import { nanoid } from 'nanoid';
 import { Container } from './App.styled';
 import {ContactForm} from './ContactForm/ContactForm';
